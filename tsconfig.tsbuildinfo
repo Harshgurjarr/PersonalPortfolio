@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/demo.tsx","./src/components/ui/layout.tsx","./src/components/ui/wrap-shader.tsx","./src/lib/utils.ts","./src/pages/about.tsx","./src/pages/contact.tsx","./src/pages/portfolio.tsx","./src/pages/projects.tsx","./src/pages/skills.tsx","./vite.config.ts"],"errors":true,"version":"5.8.3"}
