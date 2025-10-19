@@ -14,7 +14,7 @@ export default function Portfolio() {
   return (
     <div className="min-h-screen">
       <WarpShaderHero 
-        title="John Doe"
+        title="Harsh"
         subtitle="Full-stack Developer specializing in React, Node.js, and modern web technologies. Creating beautiful, performant web experiences."
         primaryButtonText="View My Work"
         secondaryButtonText="Get In Touch"
